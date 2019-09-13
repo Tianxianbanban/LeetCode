@@ -1,3 +1,4 @@
+
 /**
  * 设计链表:
  * get(index)：获取链表中第 index 个节点的值。如果索引无效，则返回-1。
@@ -142,3 +143,6 @@ public class MyLinkedList707 {
  * obj.addAtIndex(index,val);
  * obj.deleteAtIndex(index);
  */
+
+
+
